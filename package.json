@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,16 @@
   "bugs": {
     "url": "https://github.com/kirtleyadams/efom/issues"
   },
-  "homepage": "https://github.com/kirtleyadams/efom#readme"
+  "homepage": "https://github.com/kirtleyadams/efom#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.5",
+    "express-session": "^1.17.2",
+    "handlebars": "^4.7.7",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.19.0",
+    "uuid": "^8.3.2"
+  }
 }
