@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS efom_db;
+CREATE DATABASE efom_db;
