@@ -1,0 +1,13 @@
+* {
+    font: libre-baskerville;
+    /* league-spartan */
+}
+
+:root {
+    --emf-red: #A42A28
+    --emf-dark-blue: #102F60
+    --emf-grey: #DFDFE0
+    --emf-blue: #5F90F8
+    --emf-white: #FDFBFB
+    --emf-drak-grey: #3A3A3B
+}
